@@ -16,22 +16,6 @@
     }
   },
   {
-    "name": "breast_w_SVC",
-    "class": "sklearn.svm.SVC",
-    "params": {
-      "C": 4988.754541737093,
-      "cache_size": 200,
-      "coef0": 0.26932996097599315,
-      "degree": 1,
-      "gamma": 3.303996136741028,
-      "kernel": "poly",
-      "max_iter": -1,
-      "probability": true,
-      "shrinking": false,
-      "tol": 0.0008961851072570624
-    }
-  },
-  {
     "name": "credit_approval_HistGradientBoostingClassifier",
     "class": "sklearn.ensemble.HistGradientBoostingClassifier",
     "params": {
